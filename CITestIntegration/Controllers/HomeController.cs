@@ -11,7 +11,7 @@ namespace CITestIntegration.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;     //gghmmjj
+        private readonly ILogger<HomeController> _logger;     //gghmmjjkmm
 
         public HomeController(ILogger<HomeController> logger)
         {  
